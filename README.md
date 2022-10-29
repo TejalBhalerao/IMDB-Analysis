@@ -3,7 +3,7 @@ A full-fleged data processing, analysis and visualization project to collect dat
 
 IMDB Data Analysis (Power BI, Tableau, Alteryx, Talend) May 2022
 Designed a well-structured star-schema dimensional model, generating 13-dimension tables and a fact table
-/nConducted data modeling, cleaning, pre-processing, staging, and integration using Alteryx and Talend
+Conducted data modeling, cleaning, pre-processing, staging, and integration using Alteryx and Talend
 Created 50+ ETL workflows & one-click load to the entire data warehouse using a master job by parallelization
 Utilized Power BI and Tableau to create dashboards, represent KPIs, and increase 80% user insights
 
